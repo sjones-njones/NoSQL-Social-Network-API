@@ -1,13 +1,12 @@
 {
-  "name": "25-Ins_Mongoose-CRUD",
+  "name": "NoSQL-Social-Network-API",
   "version": "1.0.1",
-  "description": "Instructor demo for CRUD operations in Mongoose on subdocuments",
+  "description": "social media network backend",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "node index",
-    "dev": "nodemon index",
-    "seed": "node utils/seed"
+    "dev": "nodemon index"
   },
   "dependencies": {
     "express": "^4.17.1",
