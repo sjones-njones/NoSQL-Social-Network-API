@@ -18,7 +18,10 @@ https://github.com/sjones-njones/NoSQL-Social-Network-API.git
 
 <!-- add video link -->
 
-<!-- add heroku link -->
+![image](https://github.com/sjones-njones/NoSQL-Social-Network-API/assets/132145599/589c73b7-ef39-46eb-857d-64f9be7e6ee7)
+![image](https://github.com/sjones-njones/NoSQL-Social-Network-API/assets/132145599/00ab19db-c786-44b5-95aa-e9756f59374d)
+![image](https://github.com/sjones-njones/NoSQL-Social-Network-API/assets/132145599/84863392-6efa-49c9-887e-7546b80c08b2)
+![image](https://github.com/sjones-njones/NoSQL-Social-Network-API/assets/132145599/c4825f25-ea03-43da-bf7a-32bd1afb02ea)
 
 ### To run this app:
 * open terminal
@@ -39,10 +42,6 @@ https://www.w3schools.com
 ## License
 
 MIT License
-
-## Test
-
-n/a 
 
 ## Contact Infomation
 
