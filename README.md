@@ -16,7 +16,7 @@ This app requires Mongoose, Express, and NPM to be installed to run properly. Th
 
 https://github.com/sjones-njones/NoSQL-Social-Network-API.git
 
-<!-- add video link -->
+https://watch.screencastify.com/v/Po9vc3QYgIU1pgaJmw5S
 
 ![image](https://github.com/sjones-njones/NoSQL-Social-Network-API/assets/132145599/589c73b7-ef39-46eb-857d-64f9be7e6ee7)
 ![image](https://github.com/sjones-njones/NoSQL-Social-Network-API/assets/132145599/00ab19db-c786-44b5-95aa-e9756f59374d)
